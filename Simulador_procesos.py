@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
-
+# Simulador de procesos Quimicos usando frame Streamlit
+# Llamar localmente con streamlit run streamlit_app.py 
 # Configuración de la página
 st.set_page_config(
     page_title="Simulador ACIDHYDROCHEM",
