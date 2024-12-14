@@ -1,2 +1,2 @@
 # Programacion
-Proyectos de las clases de Programación
+Proyectos de la clase de Programación
